@@ -6,7 +6,7 @@ Hi 👋 My name is Gaurav Ramola
 FULL STACK MERN WEB DEVELOPER
 -----------------------------
 
-i am fresher in web development and i am learning web development
+Web Development|Android Development
 
 * 🌍  I'm based in Haldwani Uttrakhand
 * ✉️  You can contact me at [gauravramola18@gmail.com](mailto:gauravramola18@gmail.com)
