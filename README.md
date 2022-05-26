@@ -3,7 +3,7 @@
 Hi 👋 My name is Gaurav Ramola
 ==============================
 
-FULL STACK MERN WEB DEVELOPER
+FULL STACK MERN WEB DEVELOPER|ANDROID DEVELOPER
 -----------------------------
 
 Web Development|Android Development
